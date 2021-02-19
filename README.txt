@@ -33,6 +33,6 @@ git checkout .  = for all file
 git checkout  file.extension
 ============================================================================================
 staging 3 stage:
-git pull
+git pull is use for see any changes in repository
 
 
