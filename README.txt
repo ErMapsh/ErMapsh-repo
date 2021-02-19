@@ -13,7 +13,7 @@ thats check using first command (git status) that will show git directory exist 
 directory, staging area, commit:
 
 in directory data are change or u wanna commit data then  untracted file are found then use this command -- 
-( git add .) 
+( git add .) lkj vcx
 
 then in staging area all files are tracked using above git add . command
 
@@ -33,6 +33,17 @@ git checkout .  = for all file
 git checkout  file.extension
 ============================================================================================
 staging 3 stage:
-git pull is use for see any changes in repository
+git pull is use for see any changes in repository by another user.
+=======================================================================================
 
+then u want any repository as projet as your repo then use this command
+git clone "(ssh link of that repository)" 
+using this download that repository in your pc
 
+===================================================
+ 
+
+then u want ingore some file that file u not want at that time then make a 
+gitignore file using command - (touch .gitignore)
+
+and then enter the command (notebook .gitignore)
