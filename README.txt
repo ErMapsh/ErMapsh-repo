@@ -17,13 +17,18 @@ in directory data are change or u wanna commit data then  untracted file are fou
 
 then in staging area all files are tracked using above git add . command
 
-then tracking fiel are commiting the file such as ex.text we are use this command= 
-(git commit -m "ex")
+then tracking file are commiting the file such as ex.text we are use this command= 
+(git commit -m "commiting anything that related to changes")
 then file is commited 
 
-after  all file commiting use ( git push -u origin master) cmd.
+after  all file commiting use ( git push -u origin master) cmd for pushing data in github.
+==============================================================================================
+cmd for changes in file-
+git diff for 
+git diff --staged filename  for  staging area  after use git add . cmd
+
+after changing the file and pushing  a data in github, but u want to back before changing file then use this command
+git reset "that filename"
+git checkout .
 
 
-cmd for github =
-git diff = show changes in files
-git diff --staged "filename" = show changes in staged mode 
