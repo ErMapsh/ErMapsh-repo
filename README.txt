@@ -22,3 +22,8 @@ then tracking fiel are commiting the file such as ex.text we are use this comman
 then file is commited 
 
 after  all file commiting use ( git push -u origin master) cmd.
+
+
+cmd for github =
+git diff = show changes in files
+git diff --staged "filename" = show changes in staged mode 
