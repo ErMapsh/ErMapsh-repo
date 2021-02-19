@@ -29,6 +29,7 @@ git diff --staged filename  for  staging area  after use git add . cmd
 
 after changing the file and pushing  a data in github, but u want to back before changing file then use this command
 git reset "that filename"
-git checkout .
+git checkout .  = for all file 
+git checkout  file.extension
 
 
