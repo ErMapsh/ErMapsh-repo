@@ -1,1 +1,2 @@
-ssh key generate yourself.
+ssh key are genterating info in github
+
