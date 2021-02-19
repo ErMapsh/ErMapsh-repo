@@ -46,4 +46,5 @@ using this download that repository in your pc
 then u want ingore some file that file u not want at that time then make a 
 gitignore file using command - (touch .gitignore)
 
-and then enter the command (notebook .gitignore)
+and then enter the command (notepad .gitignore)
+and enter that command or file name or file extension 
