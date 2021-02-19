@@ -20,3 +20,5 @@ then in staging area all files are tracked using above git add . command
 then tracking fiel are commiting the file such as ex.text we are use this command= 
 (git commit -m "ex")
 then file is commited 
+
+after  all file commiting use ( git push -u origin master) cmd.
