@@ -31,5 +31,8 @@ after changing the file and pushing  a data in github, but u want to back before
 git reset "that filename"
 git checkout .  = for all file 
 git checkout  file.extension
+============================================================================================
+staging 3 stage:
+git pull
 
 
