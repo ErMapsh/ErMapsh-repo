@@ -13,7 +13,7 @@ thats check using first command (git status) that will show git directory exist 
 directory, staging area, commit:
 
 in directory data are change or u wanna commit data then  untracted file are found then use this command -- 
-( git add .) lkj vcx
+( git add .) 
 
 then in staging area all files are tracked using above git add . command
 
