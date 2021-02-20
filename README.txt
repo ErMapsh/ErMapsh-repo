@@ -48,3 +48,13 @@ gitignore file using command - (touch .gitignore)
 
 and then enter the command (notepad .gitignore)
 and enter that command or file name or file extension 
+===============================================
+
+New branch = git branch <new branch name>
+
+change branch master to branch new_branch, its nothing but switching braches = git checkout branch_name 
+
+come in master branch = git branch master (default branch is master)
+
+then merge new_branch into = git merge new_branch
+after merging branch then want to delete new branch then use this cmd = git branch -d  new_branch_name  
